@@ -14,8 +14,8 @@ A multi-client TCP Chat Server made with Python to understand OS concepts, multi
 
 ## To-Do
 ### Encryption 
-- [ ] Step 16: RSA + AES Setup
-- [ ] Step 17: Encrypt Messages
+- [ ] RSA + AES Setup
+- [ ] Encrypt Messages
 
 ## Concepts Learnt
 - **Sockets**: Using `socket` for low-level TCP/IP communication.
